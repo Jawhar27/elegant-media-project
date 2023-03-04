@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "701286787239",
+    "project_id": "facebookauth-4bc4f",
+    "storage_bucket": "facebookauth-4bc4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701286787239:android:b0f54259bbec7126519382",
+        "android_client_info": {
+          "package_name": "com.example.elegant_media_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701286787239-qc55b6h1k7bb1he6ihqsk9jhk8k9ules.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVckPOSfSGXZl_rJvquqJSkg7-_cnio60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701286787239-qc55b6h1k7bb1he6ihqsk9jhk8k9ules.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
